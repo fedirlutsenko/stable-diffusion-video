@@ -94,22 +94,16 @@ interface = Interface(pipeline)
 interface.launch()
 ```
 
-## Credits
-
-This work built off of [a script](https://gist.github.com/karpathy/00103b0037c5aaea32fe1da1af553355
-) shared by [@karpathy](https://github.com/karpathy). The script was modified to [this gist](https://gist.github.com/nateraw/c989468b74c616ebbc6474aa8cdd9e53), which was then updated/modified to this repo. 
 
 ## Contributing
 
-You can file any issues/feature requests [here](https://github.com/nateraw/stable-diffusion-videos/issues)
+You can file any issues/feature requests [here](https://github.com/fedirlutsenko/stable-diffusion-video/issues)
 
 Enjoy 🤗
 
 ## Extras
 
 ### Upsample with Real-ESRGAN
-
-You can also 4x upsample your images with [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)!
 
 It's included when you pip install the latest version of `stable-diffusion-videos`! 
 
